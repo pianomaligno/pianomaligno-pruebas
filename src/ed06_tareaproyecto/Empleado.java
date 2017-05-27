@@ -15,6 +15,7 @@ public class Empleado {
     private String direccion;
     private String cargo;
     private int numHijos;
+    private String descripcion;
     
     public Empleado (String dni, String nombre){
         this.dni=dni;
