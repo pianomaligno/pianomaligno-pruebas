@@ -15,7 +15,7 @@ public class Empleado {
     private String direccion;
     private String cargo;
     private int numHijos;
-    prueba
+    
     public Empleado (String dni, String nombre){
         this.dni=dni;
         this.nombre=nombre;
